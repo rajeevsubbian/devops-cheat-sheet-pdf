@@ -40,6 +40,7 @@
        1. [Linux Commands 2](pdf/linux-bash-terminal.pdf)
        1. [Linux Commands 3](pdf/linux_commands.pdf)
        1. [Linux Network Tools](pdf/linux-networking-tool), Every Linux networking tool I know
+       2. https://zerotomastery.io/cheatsheets/linux-commands-cheat-sheet/ 
     1. [Network-tools](pdf/linux-networing-tools.pdf): ping, curl, wget, ssh and more network tools.
           1. [Cron](pdf/cron.pdf) is a time-based job scheduler in Unix-like computer operating systems.
           1. [Rsync](pdf/rsync.pdf) is a fast and extraordinarily versatile file copying tool. It can copy locally, to/from another host over any remote shell, or to/from a remote rsync daemon.
